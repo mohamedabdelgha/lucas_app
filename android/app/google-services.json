@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "981975569961",
+    "firebase_url": "https://lucasapp-b21db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lucasapp-b21db",
+    "storage_bucket": "lucasapp-b21db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981975569961:android:7a1b9d7831cdfccf106e38",
+        "android_client_info": {
+          "package_name": "com.example.lucas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeS7LNsSGSi0OKVp9oKKBnD8rwaciCOGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
